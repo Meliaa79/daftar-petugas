@@ -5,11 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Daftar Pekerja
     </title>
-    @vite('resources/css/app.css') <!-- Menghubungkan CSS dengan Tailwind -->
+    @vite('resources/css/app.css') 
 </head>
 <body>
     <div class="container mx-auto mt-10">
-        <h1 class="text-2xl font-bold mb-5">Daftar Petugas</h1>
+        <h1 class="text-2xl font-bold mb-5">Daftar Petugas Harian</h1>
         <div class="flex justify-end mb-4">
             <button
                 class="bg-yellow-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded"
