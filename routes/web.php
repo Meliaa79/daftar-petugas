@@ -4,9 +4,6 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\PetugasController;
 
 
-Route::get('/', function () {
-    return view('welcome');
-});
 
 Route::get('/petugas', [PetugasController::class, 'index']);
 

@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Daftar Petugas</title>
+    <title>Daftar Petugas Pekerja Harian
+    </title>
     @vite('resources/css/app.css') <!-- Menghubungkan CSS dengan Tailwind -->
 </head>
 <body>
@@ -19,7 +20,7 @@
         <table class="table-auto w-full border-collapse border border-gray-300">
             <thead>
                 <tr>
-                    <th class="border border-gray-300 px-4 py-2">No</th>
+                    <th class="border border-gray-300 px-4 py-2">Nomor</th>
                     <th class="border border-gray-300 px-4 py-2">Nama Petugas</th>
                     <th class="border border-gray-300 px-4 py-2">No Telepon</th>
                     <th class="border border-gray-300 px-4 py-2">Alamat</th>
