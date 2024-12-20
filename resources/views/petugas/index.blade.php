@@ -22,7 +22,7 @@
                 <tr>
                     <th class="border border-gray-300 px-4 py-2">Nomor</th>
                     <th class="border border-gray-300 px-4 py-2">Nama Petugas</th>
-                    <th class="border border-gray-300 px-4 py-2">No Telepon</th>
+                    <th class="border border-gray-300 px-4 py-2">Nomor Telepon</th>
                     <th class="border border-gray-300 px-4 py-2">Alamat</th>
                     <th class="border border-gray-300 px-4 py-2">Status</th>
                 </tr>
